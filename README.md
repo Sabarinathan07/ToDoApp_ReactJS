@@ -1,4 +1,17 @@
-# Getting Started with Create React App
+<h1 align="center">
+<a href="https://github.com/Sabarinathan07/ToDoApp_ReactJS">Simple Todo
+</a><br/><br/>
+<a href="https://todo-rctjs.herokuapp.com/">
+<img src="https://github.com/Sabarinathan07/ToDoApp_ReactJS/blob/master/screenshots/homepage.png?raw=true"></a>
+</br>
+</h1>
+<h4 align="center">My first Application using React-JS learnt from crash tutorial</h4>
+<p align="center">
+</p>
+
+View a live demo of this project on [Heroku](https://todo-rctjs.herokuapp.com/)
+
+# Getting Started with Todo React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
